@@ -1,17 +1,17 @@
 h1::before {
-    content: "-";
+    content: " ";
 }
 
 h1::after {
-    content: "-";
+    content: " ";
 }
 
 h4::before {
-    content: "-";
+    content: " ";
 }
 
 h4::after {
-    content: "-";
+    content: " ";
 }
 
 .tel {
