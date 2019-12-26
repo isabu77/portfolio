@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 ## **0005_portfolio**
 
 ## Consigne :
 Créer un "BEAU" portfolio comportant :
+=======
+## **Portfolio**
+
+## Consigne :
+"Mon portfolio" comportant :
+>>>>>>> master
 * Nom et prénom
 * Description
 * Coordonnées
